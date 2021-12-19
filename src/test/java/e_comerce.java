@@ -229,7 +229,7 @@ public class e_comerce {
         assertTrue(body_response.contains("added"));
     }
 
-    /*
+
     @Test
     public void Rafa_t05_borrar_anuncio(){
         // Url de esta petición: https://{{url_base}}/nga/api/v1{{account_id}}/klfst/{{ad_id}}
@@ -267,7 +267,7 @@ public class e_comerce {
 
 
     }
-*/
+
 
     @Test
     public void Rafa_t06_crear_anuncio() {
